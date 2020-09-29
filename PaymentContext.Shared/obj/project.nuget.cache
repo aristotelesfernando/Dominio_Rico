@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ml0vnwS9joy/EGsA18Bzd7iIi8Sfofpi+0zj8aKjnpEqpDZGKFhPd/POIJ3m2YoI4K+4MCds+o6dL+G9pfsn/Q==",
+  "success": true,
+  "projectFilePath": "E:\\src\\Balta.io-cursos\\curso_1975\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arist\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\arist\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
